@@ -1,1 +1,2 @@
-# Rocket-Bingo
+# jam
+Game Jam jam

@@ -1,0 +1,45 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+html { 
+	background: url('../images/backdrop.png') no-repeat center center fixed; 
+	background-size: cover;
+}
+body{
+	font-family: "Exo 2",Arial, sans-serif;
+}
+
+h4{
+	padding-bottom: 0.5em;
+}
+
+p{
+	padding: 0.3em 0 0.3em 0;
+}
+
+a{
+	color: #fc0;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+#intro {
+	color: white;
+	margin: 3em auto 3em auto;
+	max-width: 800px;
+}
+
+button.startgame{
+	cursor: pointer;
+	min-width: 500px;
+	min-height: 50px;
+	background-color: #fc0;
+	font-family: "Exo 2",Arial, sans-serif;
+	font-weight: bold;
+	font-size: 24pt;
+	border: none;
+	margin-top: 0.5em;
+}

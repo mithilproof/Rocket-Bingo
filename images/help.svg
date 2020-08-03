@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="65.983414mm"
+   height="77.244377mm"
+   viewBox="0 0 233.7995 273.70055"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="help.svg"
+   inkscape:export-filename="/home/zemanek/git/jam/images/help.png"
+   inkscape:export-xdpi="153.97809"
+   inkscape:export-ydpi="153.97809">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4775">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4763" />
+      <stop
+         id="stop4787"
+         offset="0.1528628"
+         style="stop-color:#ff0404;stop-opacity:1" />
+      <stop
+         id="stop4785"
+         offset="0.32429731"
+         style="stop-color:#ee0dcf;stop-opacity:1" />
+      <stop
+         id="stop4783"
+         offset="0.4659788"
+         style="stop-color:#170df4;stop-opacity:1" />
+      <stop
+         id="stop4781"
+         offset="0.60756755"
+         style="stop-color:#0cf1f5;stop-opacity:1" />
+      <stop
+         id="stop4779"
+         offset="0.74649906"
+         style="stop-color:#296e05;stop-opacity:1" />
+      <stop
+         id="stop4777"
+         offset="0.87993848"
+         style="stop-color:#859207;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff6d0d;stop-opacity:1"
+         offset="1"
+         id="stop4765" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4775"
+       id="linearGradient4767"
+       x1="116.24868"
+       y1="69.782974"
+       x2="229.57088"
+       y2="69.782974"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="83.74736"
+     inkscape:cy="121.83781"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="820"
+     inkscape:window-x="0"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-104.07111,-43.245193)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#e3bc1c;fill-opacity:1;fill-rule:nonzero;stroke:#ffcc00;stroke-width:5.00000048;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4136"
+       width="228.79951"
+       height="268.70059"
+       x="106.57109"
+       y="45.745193" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.73076248px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="114.72752"
+       y="75.454704"
+       id="text4703"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4705"
+         x="114.72752"
+         y="75.454704"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Need Help?</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4707"
+       y="109.4547"
+       x="114.72752"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="109.4547"
+         x="114.72752"
+         id="tspan4709"
+         sodipodi:role="line">Key</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="152.72752"
+       y="109.4547"
+       id="text4711"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4713"
+         x="152.72752"
+         y="109.4547"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Semi-Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Function</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="114.72752"
+       y="169.4547"
+       id="text4715"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4717"
+         x="114.72752"
+         y="169.4547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">h</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4719"
+       y="169.4547"
+       x="152.72752"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="169.4547"
+         x="152.72752"
+         id="tspan4721"
+         sodipodi:role="line">Pause the game and display</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="185.0797"
+         x="152.72752"
+         sodipodi:role="line"
+         id="tspan4723">this help. Also: Hide this help </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="200.7047"
+         x="152.72752"
+         sodipodi:role="line"
+         id="tspan4759">and start/continue the game.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4725"
+       y="287.45471"
+       x="114.72752"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="287.45471"
+         x="114.72752"
+         id="tspan4727"
+         sodipodi:role="line">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="152.72752"
+       y="287.45471"
+       id="text4729"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4733"
+         sodipodi:role="line"
+         x="152.72752"
+         y="287.45471"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Toggle autopilot for your </tspan><tspan
+         sodipodi:role="line"
+         x="152.72752"
+         y="303.07971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="tspan4737">rocket.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="114.72752"
+       y="129.4547"
+       id="text4739"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4741"
+         x="114.72752"
+         y="129.4547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">←→</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4743"
+       y="129.4547"
+       x="152.72752"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4747"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="129.4547"
+         x="152.72752"
+         sodipodi:role="line">Rotate your rocket left/right</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4751"
+       y="149.4547"
+       x="114.72752"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="149.4547"
+         x="114.72752"
+         id="tspan4753"
+         sodipodi:role="line">↑↓</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="152.72752"
+       y="149.4547"
+       id="text4755"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="152.72752"
+         y="149.4547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="tspan4757">Accelerate/decelerate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="115.16118"
+       y="87.454697"
+       id="text4810"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="115.16118"
+         y="87.454697"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75000095px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="tspan4812">Press h to start the game</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="114.72752"
+       y="219.45471"
+       id="text6136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6138"
+         x="114.72752"
+         y="219.45471"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">c</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6140"
+       y="219.45471"
+       x="152.72752"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan6144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="219.45471"
+         x="152.72752"
+         sodipodi:role="line">Pause the game and display </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="235.07971"
+         x="152.72752"
+         sodipodi:role="line"
+         id="tspan6148">the credits. Also: Hide the </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="250.70471"
+         x="152.72752"
+         sodipodi:role="line"
+         id="tspan6150">credits and start/continue the </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Exo 2';-inkscape-font-specification:'Exo 2, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         y="266.32971"
+         x="152.72752"
+         sodipodi:role="line"
+         id="tspan6156">game.</tspan></text>
+  </g>
+</svg>
